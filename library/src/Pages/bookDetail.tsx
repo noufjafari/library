@@ -97,7 +97,6 @@ function bookDetail() {
         
         }
         
-
      </div>
      <Footer/>
 
