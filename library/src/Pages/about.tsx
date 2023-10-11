@@ -15,7 +15,7 @@ function about() {
 
       <div className=" py-3 gap-9 flex flex-col justify-center text-center">
       <h1 className="text-6xl max-sm:text-2xl font-bold text-center mt-10"> مَـــــــن مكــــــتَـــــتبــــــة ؟</h1> 
-      <p className="py-6 font-thin text-center  max-sm:text-[0.70rem]  max-sm:w-48  max-sm:ml-24 max-sm:py-3 max-sm:m-0 text-base m-9 mb-2 ">مكتبة هي ملاذٌ للقراء ومحبي العلم والكتب والمعرفة، إذ تعد  من أحد المكتبات المتنوعة،<br></br> حيث تضم أكثر من كتاب. وتتميز مَكتبة بكونها مساحة للتعرف وشراء الكتب فهي مصممة<br></br> لمراعاة محبين القراءة لتساعدهم على الاكتشاف والسعي وراء المعرفة.</p>
+      <p className="py-6 font-thin text-center  max-sm:text-[0.70rem]  max-sm:w-48  max-sm:ml-24 max-sm:py-3 max-sm:m-0 text-base m-9 mb-2 ">مكتبة هي ملاذٌ للقراء ومحبي العلم والكتب والمعرفة إذ تعد  من أحد المكتبات المتنوعة<br></br> حيث تضم أكثر من كتاب وتتميز مَكتبة بكونها مساحة للتعرف وشراء الكتب فهي مصممة<br></br> لمراعاة محبين القراءة لتساعدهم على الاكتشاف والسعي وراء المعرفة</p>
       <hr className="text-gray-300 my-16 max-sm:my-6"/>
 
     </div>
